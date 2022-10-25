@@ -1,1 +1,1 @@
-print("Pozdrav iz aplikacije od Adrian Župarić")
+print("Pozdrav iz aplikacije od newIndex")
